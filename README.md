@@ -23,8 +23,7 @@ JavaScript's scope chain determines the hierarchy of places the computer must go
 
 
 ## Lexical Scoping
-A lexical Scope means that a variable defined outside a function can beaccessible insisde another function defined outside the variable declaration. But the Opposite is not true; the variable definition cannot be accessible outside that function.
-https://stackoverflow.com/questions/1047454/what-is-lexical-scope
+A lexical Scope means that a variable defined outside a function can beaccessible insisde another function defined outside the variable declaration. But the Opposite is not true; the variable definition cannot be accessible outside that function. https://stackoverflow.com/questions/1047454/what-is-lexical-scope
 
 ## Closure
 A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function.
