@@ -9,6 +9,7 @@ In programming language design, a first-class citizen (also type, object, entity
 ## CallBacks
 A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
 -MDN
+
 UseCase- Let's say we have 2 tasks, we are sure of implement (how to go about task 1), task 2 is related to task 1 and comes after it. 
 The implementation of task 2 is can vary.
 so we decide to implement task 1, provide it with task 1 as an argument and supply the output of task 1 to task 2.
