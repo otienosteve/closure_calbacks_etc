@@ -105,7 +105,12 @@ printName('stve')
 
 
 
-
+// for( let i=0; i<=Student.length-1; i++){
+//     console.log(Student[i]) 
+// }
+// for(let arr of Student.reverse()){
+//     console.log(arr)
+// }
 
 
 
